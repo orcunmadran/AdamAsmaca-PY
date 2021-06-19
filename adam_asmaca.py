@@ -1,3 +1,5 @@
+#Adam Asmaca
+
 from random import randint
 
 adamCan = 3
